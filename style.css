@@ -12,10 +12,10 @@ body {
 
 /* ===== CAPA ===== */
 .cover{
-  height:360px;
-  background-image:url("assets/irmas.jpeg");
+  height:420px;
+  background-image:url("assets/nossosite.jpeg");
   background-size:cover;
-  background-position:center 30%;
+  background-position:center 45%;
   position:relative;
   overflow:hidden;
 }
@@ -123,9 +123,14 @@ body {
 }
 
 /* IMAGENS DOS CARDS */
+.card-site     { background-image:url("assets/nossosite.jpeg"); }
 .card-encontro { background-image:url("assets/encontro.jpeg"); }
 .card-oracao   { background-image:url("assets/irmas.jpeg"); }
-.card-youtube  { background-image:url("assets/irmas.jpeg"); }
+.card-youtube  {
+  background-image:url("assets/irmas.jpeg");
+  background-size:150%;
+  background-position:center;
+}
 .card-tiktok   { background-image:url("assets/tiktok.jpeg"); }
 .card-pix      { background-image:url("assets/pixfundo.jpeg"); }
 
