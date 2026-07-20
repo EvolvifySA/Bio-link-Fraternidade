@@ -124,6 +124,7 @@ body {
 
 /* IMAGENS DOS CARDS */
 .card-site     { background-image:url("assets/nossosite.jpeg"); }
+.card-vocacional { background-image:url("assets/vocacional.jpeg"); }
 .card-encontro { background-image:url("assets/encontro.jpeg"); }
 .card-oracao   { background-image:url("assets/irmas.jpeg"); }
 .card-youtube  {
